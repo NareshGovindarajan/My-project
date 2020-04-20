@@ -1,0 +1,28 @@
+case1 Port Scanner:
+
+python-nmap is a python library which helps in using nmap port scanner. It allows to easilly manipulate nmap scan results and will be a perfect tool for systems administrators who want to automatize scanning task and reports. It also supports nmap script outputs
+
+
+case2 Sniffer :
+
+This is a simple network sniffer that sniffs packets at the Network Layer (IP Layer), parse it and displays the IP Header informations. It also do a hex and ASCII dump of the data sniffed.
+
+case3 Cracking password with Johnny:
+
+John the Ripper is a fast password cracker, currently available for many flavors of Unix, macOS, Windows, DOS, BeOS, and OpenVMS. Historically, its primary purpose is to detect weak Unix passwords. These days, besides many Unix crypt(3) password hash types, supported in "-jumbo" versions are hundreds of additional hashes and ciphers.
+
+case4 Collect email/banner/phones
+
+Python provides email.utils.getaddresses() that split addresses in a list of tuple ( display-name, address ). display-name need to be decoded too and addresses must match the RFC2822 syntax. The function getmailaddresses() does all the job.
+Vulnerability scanner
+
+case5 Vulnerability scanner
+
+Python  library for the Vulners Database. It provides search, data retrieval, archive and vulnerability scanning API's for the integration purposes. With this library you can create powerful security tools and get access to the world largest security database.
+
+case6 Display running services on given host
+
+This python script provides a cross platform library psutil to fetch sunning system details like process and system details
+
+
+
